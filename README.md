@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajay Jangid</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🌱 I’m currently learning **Node.js, Express.js, Mongodb**
+- 🌱 I’m currently working on  **Node.js, Express.js, Mongodb ,React**
 
 - 📫 How to reach me **ajayjangid9299@gmail.com**
 
