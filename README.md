@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajay Jangid</h1>
 <h3 align="center">A passionate FullStack (MERN) developer from India</h3>
 
-- 🌱 I’m currently working on  **Node.js, Express.js, Mongodb ,React**
+- 🌱 I’m currently working on  **Node.js, Express.js, Mongodb ,React, Angular**
 
 - 📫 How to reach me **ajayjangid9299@gmail.com**
 
