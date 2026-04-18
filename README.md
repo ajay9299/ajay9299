@@ -1,16 +1,86 @@
 <h1 align="center">Hi 👋, I'm Ajay Jangid</h1>
-<h3 align="center">A passionate FullStack (MERN/MEAN) developer from India</h3>
+<h3 align="center">Backend Engineer | Microservices | Distributed Systems</h3>
 
-- 🌱 I’m currently working on  **Node.js, Express.js, Mongodb ,React, Angular**
+---
 
-- 📫 How to reach me **ajayjangid9299@gmail.com**
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ajay-jangid-70620016a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ajay-jangid-70620016a/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/_ajay_jangid_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/_ajay_jangid_/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/asquare9299/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/asquare9299/practice" height="30" width="40" /></a>
-</p>
+- 💼 Full Stack Developer with strong focus on **Backend Engineering**
+- ⚡ Experienced in building **scalable microservices & distributed systems**
+- 🧠 Currently sharpening skills in **System Design & DSA**
+- 🔧 Working with **Node.js (NestJS), AWS, Redis, Messaging Systems**
+- 🎯 Goal: Transition into **high-scale product-based companies**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+---
+
+## 🧠 Core Expertise
+
+- 🔹 Backend Development (Node.js, NestJS, Express)
+- 🔹 Microservices Architecture
+- 🔹 Distributed Systems Design
+- 🔹 REST APIs & Event-driven Architecture
+- 🔹 Message Brokers (RabbitMQ, Kafka - learning)
+- 🔹 Caching (Redis)
+- 🔹 Database Design (MongoDB, MySQL)
+
+---
+
+## 🏗️ Featured Projects
+
+### 🔹 Microservices Architecture (NestJS)
+- Built scalable services using **CQRS pattern**
+- Implemented **event-driven communication**
+- Integrated **message queues**
+- Applied **clean architecture principles**
+
+---
+
+### 🔹 YouTube-like Backend System (In Progress 🚀)
+
+- Video upload & processing pipeline  
+- Notification system (async processing)  
+- Rate limiting & caching strategies  
+- Real-time updates using WebSockets  
+
+---
+
+## ⚙️ Tech Stack
+
+### 🖥️ Backend
+- Node.js | NestJS | Express.js
+
+### 🗄️ Databases
+- MongoDB | MySQL | Redis
+
+### ⚡ Architecture
+- Microservices | CQRS | Event-driven Systems
+
+### ☁️ Cloud & Tools
+- AWS (S3, Textract)  
+- Docker (Basics)  
+- Git & CI/CD  
+
+---
+
+## 📊 Coding Profiles
+
+- 🧩 LeetCode: https://leetcode.com/u/_Ajay_Jangid_/
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/ajay-jangid-70620016a/
+- 📫 Email: ajayjangid9299@gmail.com
+
+---
+
+## 🚀 What I'm Working On
+
+- 📈 Improving DSA for product-based companies  
+- 🧠 Mastering System Design (HLD + LLD)  
+- ⚡ Building real-world scalable backend systems  
+
+---
+
+⭐️ Always open to learning, collaboration, and solving challenging backend problems!
