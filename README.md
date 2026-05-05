@@ -64,7 +64,7 @@
 
 ## 📊 Coding Profiles
 
-- 🧩 LeetCode: https://leetcode.com/u/_Ajay_Jangid_/
+- 🧩 LeetCode: https://leetcode.com/u/Ajay9299/
 
 ---
 
